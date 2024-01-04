@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #000; /* Yazı rengini siyah yap */
+    margin: 20px;
+}
+
+h1 {
+    color: #000; /* Başlık rengini siyah yap */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: #fff;
+    border: 2px solid #ddd; /* Border'ları düzelt */
+    text-align: center; /* Yazıları ortala */
+}
+
+li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center; /* Ana Sayfa başlığını ortala */
+}
